@@ -12,7 +12,7 @@ The navigation bar at the top will take you to the section you selected within t
 # Links
 
 GitHub: https://github.com/sdfields/My-Portfolio
-URL:
+URL: https://sdfields.github.io/My-Portfolio/
 
 # License
 
